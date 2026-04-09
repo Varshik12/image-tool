@@ -40,7 +40,7 @@ Start the development server:
 npm run dev
 The server will start on http://localhost:3000
 
-📖 How to Use
+📖 How to Use:
 Upload: Drag and drop an image or click to browse.
 Select Action: Choose from Rotate, Resize, Crop, or Convert in the control panel.
 Adjust: Set your parameters (angle, dimensions, or crop area).
