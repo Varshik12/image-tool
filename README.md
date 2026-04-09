@@ -2,7 +2,6 @@
 
 Imahe-Tool is a high-performance, aesthetically pleasing web application designed for seamless image manipulation. Built with a focus on user experience and speed, it combines a powerful Node.js backend with a fluid React frontend to provide professional-grade image editing tools directly in your browser.
 
-![PixelFlow Banner](https://picsum.photos/seed/pixelflow/1200/400?blur=2)
 
 ## 🚀 Key Features
 
