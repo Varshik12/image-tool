@@ -1,0 +1,5 @@
+{
+  "name": "Image Tool",
+  "description": "High-performance image processing platform for professional workflows, supporting rotation, resizing, cropping, and format conversion.",
+  "requestFramePermissions": []
+}
