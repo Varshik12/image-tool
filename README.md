@@ -16,7 +16,6 @@ Imahe-Tool is a high-performance, aesthetically pleasing web application designe
 ### Frontend
 - **React 19**: Leveraging the latest React features for a high-performance UI.
 - **Vite 6**: The next-generation frontend tooling.
-- **Tailwind CSS 4**: Modern utility-first styling with the latest engine.
 - **Framer Motion**: Industry-standard animation library for fluid interactions.
 - **Lucide React**: Comprehensive icon set for a clean UI.
 
