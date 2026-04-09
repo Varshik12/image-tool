@@ -5,7 +5,7 @@ import Controls from './components/Controls';
 import Preview from './components/Preview';
 import Result from './components/Result';
 import { rotateImage, pngToJpg, jpgToPng, resizeImage, cropImage } from './services/api';
-import { ImageIcon, Settings, CheckCircle, AlertCircle, Loader2, Zap, ShieldCheck } from 'lucide-react';
+import { ImageIcon,  CheckCircle, AlertCircle, Loader2, Zap, ShieldCheck } from 'lucide-react';
 
 const App = () => {
   const [file, setFile] = useState(null);
